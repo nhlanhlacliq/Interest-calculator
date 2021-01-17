@@ -1,4 +1,4 @@
-# Level_1_-_Capstone-Project-1_-_Variables_and_Control_Structures
+# Interest Calculator
 
 For this task, the aim was to create a program that lets a user calculate interest on either an investment or a bond.
 
